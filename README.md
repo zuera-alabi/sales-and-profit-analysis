@@ -1,7 +1,7 @@
 # Sales & Profit Analysis | Revenue Trends and Business Insights
 Excel + Power Bi Project | Retail Sales Data | From Raw Data into Actionable Business Insights
 
-## Table of Contents
+### Table of Contents
 * [Project Overview](#project-overview)
 * [Tools & Technologies](#tools--technologies)
 * [Data Description](#data-description)
