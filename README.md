@@ -90,4 +90,10 @@ By leveraging Excel for data preparation and Power BI for visualization and mode
 
 ## Dataset Access
  The dataset used for this analysis is included in this repository.
+ 
+## Author
+**Zuera Alabi**  
+Data Analyst | Python | Excel | Power BI | SQL  
+
+Passionate about transforming raw data into meaningful insights that support business decision-making.
 
