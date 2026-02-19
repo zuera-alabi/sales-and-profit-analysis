@@ -4,13 +4,19 @@ Excel + Power Bi Project | Retail Sales Data | From Raw Data into Actionable Bus
 ## Table of Contents
 * [Project Overview](#project-overview)
 * [Tools & Technologies](#tools--technologies)
+* [Data Description](#data-description)
+* [Data Cleaning Process](#data-cleaning-process)
+* [Power BI Dashboard](#power-bi-dashboard)
+* [Key Insights](#key-insights)
+* [Business Recommendation](#business-recommendation)
 
 ## Project Overview
 This project analyzes retail sales data to uncover key trends in revenue, product performance, regional sales distribution, customer contributions and overall profitability. Excel was used for data exploration and transformation, while Power BI was utilized for data visualizations and dashboard creation. The project transforms raw transaction data into meaningful insights that support business performance evaluation and strategic decision-making.
 ## Tools & Technologies
 
 - **Microsoft Excel** – Data cleaning, exploration, and transformation  
-- **Power BI** – DAX, Data modeling, visualization, and interactive dashboard creation 
+- **Power BI** – DAX, Data modeling, visualization, and interactive dashboard creation
+  
 ## Data Description
 The dataset used in this project contains retail sales transaction records that capture business operations across different regions, product categories, and customer segments.
 Key data fields include:
@@ -24,6 +30,7 @@ Key data fields include:
 - Quantity – Number of items sold
   
 This dataset provides a comprehensive view of business performance and supports detailed analysis of sales trends, profitability, and customer behavior.
+
 ## Data Cleaning Process
 The analysis followed a structured workflow to ensure accurate insights and effective reporting:
 
