@@ -28,7 +28,20 @@ The analysis followed a structured workflow to ensure accurate insights and effe
 - Performed data modeling and established relationships in Power BI  
 - Developed DAX measures for key metrics including Total Sales, Profit, Customers, and Quantity  
 - Built interactive dashboards to visualize business performance and trends
+## Power BI Dashboard
+
+The interactive Power BI dashboard provides a comprehensive view of business performance through the following key visualizations:
+
+- 📊Revenue and profit trends over time  
+- 🗺️Regional sales performance across different states  
+- ⭐Top-performing product categories  
+- 📈Monthly and quarterly sales growth patterns  
+- 🧑Customer contribution analysis
+  
+Interactive filters for product categories, time periods, and regional comparisons
+  
 ## Key Insights
+
 - Sales trends showed a steady increase from 2021 to 2023, followed by a noticeable decline in 2024.  
 
 - Technology products were among the top-performing categories, contributing significantly to overall sales.  
