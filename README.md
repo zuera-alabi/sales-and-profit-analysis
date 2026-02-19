@@ -2,7 +2,7 @@
 Excel + Power Bi Project | Retail Sales Data | From Raw Data into Actionable Business Insights
 ## 📌 Project Overview
 This project analyzes retail sales data to uncover key trends in revenue, product performance, regional sales distribution, customer contributions and overall profitability. Excel was used for data exploration and transformation, while Power BI was utilized for data visualizations and dashboard creation. The project transforms raw transaction data into meaningful insights that support business performance evaluation and strategic decision-making.
-## 🛠️ Tools and Technologies
+## Tools and Technologies
 
 - **Microsoft Excel** – Data cleaning, exploration, and transformation  
 - **Power BI** – DAX, Data modeling, visualization, and interactive dashboard creation 
@@ -19,7 +19,7 @@ Key data fields include:
 - Quantity – Number of items sold
   
 This dataset provides a comprehensive view of business performance and supports detailed analysis of sales trends, profitability, and customer behavior.
-## 🔎 Data Cleaning Process
+## Data Cleaning Process
 The analysis followed a structured workflow to ensure accurate insights and effective reporting:
 
 - Cleaned the dataset by handling missing and invalid values  
@@ -27,4 +27,15 @@ The analysis followed a structured workflow to ensure accurate insights and effe
 - Created new calculated fields such as Revenue (Quantity × Unit Price)  
 - Performed data modeling and established relationships in Power BI  
 - Developed DAX measures for key metrics including Total Sales, Profit, Customers, and Quantity  
-- Built interactive dashboards to visualize business performance and trends 
+- Built interactive dashboards to visualize business performance and trends
+## Key Insights
+- Sales trends showed a steady increase from 2021 to 2023, followed by a noticeable decline in 2024.  
+
+- Technology products were among the top-performing categories, contributing significantly to overall sales.  
+
+- Sales were highly concentrated in specific regions, with California and New York leading in revenue generation.  
+
+- Customer contribution analysis revealed that a small group of customers accounted for a large share of total sales.  
+
+- Overall business performance varied across categories and regions, indicating opportunities for strategic improvement.  
+
