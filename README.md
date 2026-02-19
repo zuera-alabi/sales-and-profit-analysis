@@ -38,6 +38,8 @@ The interactive Power BI dashboard provides a comprehensive view of business per
 - 📈Monthly and quarterly sales growth patterns  
 - 🧑Customer contribution analysis
   
+ <img width="1403" height="742" alt="IMG_0224 (1)" src="https://github.com/user-attachments/assets/3115d0b8-691a-4729-abbf-7a6c7a79ca72" />
+
 ## Key Insights
 
 - Sales trends showed a steady increase from 2021 to 2023, followed by a noticeable decline in 2024.  
