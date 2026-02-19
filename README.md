@@ -42,13 +42,27 @@ The interactive Power BI dashboard provides a comprehensive view of business per
 
 ## Key Insights
 
-- Sales trends showed a steady increase from 2021 to 2023, followed by a noticeable decline in 2024.  
+1. Sales trends showed a steady increase from 2021 to 2023, followed by a noticeable decline in 2024.  
 
-- Technology products were among the top-performing categories, contributing significantly to overall sales.  
+2. Technology products were among the top-performing categories, contributing significantly to overall sales.  
 
-- Sales were highly concentrated in specific regions, with California and New York leading in revenue generation.  
+3. Sales were highly concentrated in specific regions, with California and New York leading in revenue generation.  
 
-- Customer contribution analysis revealed that a small group of customers accounted for a large share of total sales.  
+4. Customer contribution analysis revealed that a small group of customers accounted for a large share of total sales.  
 
-- Overall business performance varied across categories and regions, indicating opportunities for strategic improvement.  
+5. Overall business performance varied across categories and regions, indicating opportunities for strategic improvement.
+  
+## Business Recommendation
+
+Based on the analysis, the following strategic actions are recommended:
+
+- Focus marketing and operational efforts on high-performing regions such as California and New York to maximize revenue growth.  
+
+- Strengthen sales strategies for top-performing product categories while reviewing pricing and cost structures for lower-performing segments.  
+
+- Implement customer retention programs to maintain relationships with high-value customers who contribute significantly to total revenue.  
+
+- Investigate causes of the sales decline observed in 2024 and develop targeted strategies to restore growth.  
+
+- Continuously monitor sales and profit trends using interactive dashboards to support data-driven decision-making.  
 
