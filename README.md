@@ -10,6 +10,7 @@ Excel + Power Bi Project | Retail Sales Data | From Raw Data into Actionable Bus
 * [Key Insights](#key-insights)
 * [Business Recommendation](#business-recommendation)
 * [Dashboard Preview](#dashboard-preview)
+* [Project Outcome](#project-outcome)
 
 ## Project Overview
 This project analyzes retail sales data to uncover key trends in revenue, product performance, regional sales distribution, customer contributions and overall profitability. Excel was used for data exploration and transformation, while Power BI was utilized for data visualizations and dashboard creation. The project transforms raw transaction data into meaningful insights that support business performance evaluation and strategic decision-making.
@@ -80,5 +81,10 @@ Based on the analysis, the following strategic actions are recommended:
   ## Dashboard Preview
 
 ![Sales Dashboard](sales-dashboard.png)
+
+ ## Project Outcome
+ This analysis successfully transformed raw retail transaction data into a comprehensive business performance dashboard. The project provides clear insights into sales trends, regional performance, product category contributions, and customer behavior. 
+
+By leveraging Excel for data preparation and Power BI for visualization and modeling, the dashboard enables stakeholders to monitor key performance metrics, identify growth opportunities, and support data-driven decision-making.
  
 
