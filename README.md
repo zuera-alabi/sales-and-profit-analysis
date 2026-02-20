@@ -3,16 +3,16 @@
 ## Introduction
 This project analyzes retail sales data to identify revenue trends, product performance, regional distribution, and overall profitability.
 
-Excel was used for data cleaning and exploratory analysis, while Power BI was utilized to build an interactive dashboard.
-The analysis converts raw transactional data into actionable insights that support business decision-making, transaction eveluation and strategic planning.
+Excel was used for data cleaning and exploratory analysis, while Power BI was used to build an interactive dashboard.
 
-## Business Problem
-The business aimed to answer the following key questions:
+The project transforms raw transactional data into actionable insights that support business decision-making, performance evaluation, and strategic planning.
+## Problem Statement
+The analysis focused on answering the following business questions:
 
-- Which products generate the most revenue
-- Which regions are underperforming
-- Seasonal sales patterns
-- Profitability trends across categories
+- Which products generate the most revenue?
+- Which regions are underperforming?
+- What are the Seasonal sales patterns?
+- How does Profitability vary across product categories?
 
 ## Tools & Technologies
 
