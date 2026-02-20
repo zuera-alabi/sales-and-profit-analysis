@@ -1,4 +1,4 @@
-# Sales & Profit Analysis | Revenue Trends and Business Insights
+# Sales & Profit Analysis: Revenue Trends and Business Insights
 
 ## Introduction
 This project analyzes retail sales data to identify revenue trends, product performance, regional distribution, and overall profitability.
