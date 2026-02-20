@@ -1,26 +1,10 @@
 # Sales & Profit Analysis | Revenue Trends and Business Insights
-Excel + Power Bi Project | Retail Sales Data | From Raw Data into Actionable Business Insights
 
-### Table of Contents
-* [Project Overview](#project-overview)
-* [Business Problem](#business-problem)
-* [Tools & Technologies](#tools--technologies)
-* [Data Description](#data-description)
-* [Data Cleaning Process](#data-cleaning-process)
-* [Power BI Dashboard](#power-bi-dashboard)
-* [Dashboard Preview](#dashboard-preview)
-* [Key Insights](#key-insights)
-* [Business Recommendation](#business-recommendations)
+## Introduction
+This project analyzes retail sales data to identify revenue trends, product performance, regional distribution, and overall profitability.
 
-* [Project Outcome](#project-outcome)
-* [Dataset Access](#dataset-access)
-
-## Project Overview
-This project analyzes retail sales data to uncover key insights into revenue trends, product performance, regional sales distribution, and overall profitability.
-
-Excel was used for data cleaning, transformation, and exploratory analysis, while Power BI was utilized to design an interactive dashboard for visualizing business performance.
-
-The analysis converts raw transactional data into actionable insights that support data-driven decision-making, performance evaluation, and strategic planning.
+Excel was used for data cleaning and exploratory analysis, while Power BI was used to build an interactive dashboard.
+The goal is to transform raw sales data into actionable insights that support business decision-making.
 
 ## Business Problem
 The business aimed to answer the following key questions:
