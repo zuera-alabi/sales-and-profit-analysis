@@ -84,10 +84,9 @@ Based on the analysis, the following strategic actions are recommended:
 - Continuously monitor sales and profit trends using interactive dashboards to support data-driven decision-making.
   
  ## Project Outcome
- This analysis successfully transformed raw retail transaction data into a comprehensive business performance dashboard. The project provides clear insights into sales trends, regional performance, product category contributions, and customer behavior. 
+This project transformed raw retail transaction data into an interactive business performance dashboard. It provides clear insights into sales trends, regional performance, product contributions, and customer behavior.
 
-By leveraging Excel for data preparation and Power BI for visualization and modeling, the dashboard enables stakeholders to monitor key performance metrics, identify growth opportunities, and support data-driven decision-making.
-
+Using Excel for data preparation and Power BI for visualization and modeling, the dashboard enables stakeholders to monitor key metrics, identify growth opportunities, and support data-driven decision-making.
 ## Dataset Access
  The dataset used for this analysis is included in this repository and can be accessed for reference and reproducibility.
  
