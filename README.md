@@ -14,7 +14,9 @@ The analysis focused on answering the following business questions:
 - What are the Seasonal sales patterns?
 - How does Profitability vary across product categories?
 
-## Tools & Technologies
+## Tools and Technologies
+ The following tools were used in this project:
+
 
 - **Microsoft Excel** – Data cleaning, exploration, and data transformation  
 - **Power BI** – Data modeling, DAX calculations, visualization, and interactive dashboard development
