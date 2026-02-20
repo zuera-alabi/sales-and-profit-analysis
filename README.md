@@ -3,8 +3,8 @@
 ## Introduction
 This project analyzes retail sales data to identify revenue trends, product performance, regional distribution, and overall profitability.
 
-Excel was used for data cleaning and exploratory analysis, while Power BI was used to build an interactive dashboard.
-The goal is to transform raw sales data into actionable insights that support business decision-making.
+Excel was used for data cleaning and exploratory analysis, while Power BI was utilized to build an interactive dashboard.
+The analysis converts raw transactional data into actionable insights that support business decision-making, transaction eveluation and strategic planning.
 
 ## Business Problem
 The business aimed to answer the following key questions:
