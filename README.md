@@ -25,7 +25,7 @@ The analysis focused on answering the following business questions:
 The dataset contains retail sales transaction records across multiple regions, product categories, and customer segments. It includes key information needed to analyze revenue performance, profitability trends, and customer purchasing behavior.
 
 - Order Date – Transaction date of each sale
-- Customer Name – Customers contributing to revenue 
+- Customer Name – Purchasing customer 
 - Customer Region – Geographic location of sales  
 - Product Category – Type of products sold  
 - Sales Amount – Revenue generated from each transaction  
