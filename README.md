@@ -88,11 +88,11 @@ This project transformed raw retail transaction data into an interactive busines
 
 Using Excel for data preparation and Power BI for visualization and modeling, the dashboard enables stakeholders to monitor key metrics, identify growth opportunities, and support data-driven decision-making.
 ## Dataset Access
- The dataset used for this analysis is included in this repository and can be accessed for reference and reproducibility.
+ The dataset used in this analysis is included in this repository for reference and reproducibility.
  
 ## Author
 **Zuera Alabi**  
 Data Analyst | Python | Excel | Power BI | SQL  
 
-Passionate about transforming raw data into meaningful insights that support business decision-making.
+Passionate about transforming raw data into actionable insights that support business decision-making.
 
