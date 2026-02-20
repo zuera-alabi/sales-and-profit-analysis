@@ -47,7 +47,7 @@ A structured workflow was followed to ensure data accuracy, consistency, and rel
 The interactive Power BI dashboard provides a comprehensive view of business performance through the following key visualizations:
 
 - 📊Revenue and profit trends over time  
-- 🗺️Regional sales performance across different states  
+- 🗺️Regional sales performance 
 - ⭐Top-performing product categories  
 - 📈Monthly and quarterly sales growth patterns  
 - 🧑Customer contribution analysis
@@ -59,15 +59,15 @@ The interactive Power BI dashboard provides a comprehensive view of business per
 
 ## Key Insights
 
-1. Sales trends showed consistent growth from 2021 to 2023, followed by a noticeable decline in 2024, indicating potential market or operational challenges.  
+1. Sales grew steadily from 2021–2023 but declined in 2024, suggesting possible market or operational challenges. 
 
-2. Technology products emerged as top-performing categories, contributing significantly to overall revenue.  
+2. Technology products were the top revenue drivers.  
 
-3. Sales were highly concentrated in specific regions, with California and New York generating the highest revenue.
+3. Revenue was highly concentrated in a few regions, led by California and New York.
    
-4. Customer contribution analysis revealed that a small group of customers accounted for a large share of total sales, ighlighting customer dependency risk 
+4. A small group of customers generated a large share of total sales, indicating dependency risk.
 
-5. Business performance varied across categories and regions, indicating opportunities for targeted strategic improvements.
+5. Performance varied across regions and categories, highlighting opportunities for targeted improvements.
  
 ## Business Recommendations
 
