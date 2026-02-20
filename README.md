@@ -43,7 +43,6 @@ A structured workflow was followed to ensure data accuracy, consistency, and rel
 - Verified data integrity before analysis
   
 ## Power BI Dashboard
-
 The interactive Power BI dashboard provides a comprehensive view of business performance through the following key visualizations:
 
 - 📊Revenue and profit trends over time  
@@ -51,12 +50,9 @@ The interactive Power BI dashboard provides a comprehensive view of business per
 - ⭐Top-performing product categories  
 - 📈Monthly and quarterly sales growth patterns  
 - 🧑Customer contribution analysis
-
-   ## Dashboard Preview
+## Dashboard Preview
 
   ![Sales Dashboard](sales-dashboard.png)
-
-
 ## Key Insights
 
 1. Sales grew steadily from 2021–2023 but declined in 2024, suggesting possible market or operational challenges. 
