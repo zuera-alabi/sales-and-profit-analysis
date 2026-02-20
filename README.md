@@ -22,7 +22,7 @@ The analysis focused on answering the following business questions:
 - **Power BI** – Data modeling, DAX calculations, visualization, and interactive dashboard development
   
 ## Data Description
-The dataset used in this project contains retail sales transaction records representing business operations across multiple regions, product categories, and customer segments. It captures key information required to analyze revenue performance, profitability trends, and customer purchasing behavior.
+The dataset contains retail sales transaction records across multiple regions, product categories, and customer segments. It includes key information needed to analyze revenue performance, profitability trends, and customer purchasing behavior.
 
 - Order Date – Transaction date of each sale
 - Customer Name – Customers contributing to revenue 
@@ -32,17 +32,15 @@ The dataset used in this project contains retail sales transaction records repre
 - Profit – Profit earned from each sale  
 - Quantity – Number of items sold
   
-This dataset provides a comprehensive view of business performance and supports detailed analysis of sales trends, profitability, and customer behavior.
-
+This dataset provides a comprehensive view of business performance and supports data-driven decision-making
 ## Data Cleaning Process
 A structured workflow was followed to ensure data accuracy, consistency, and reliable reporting:
 
-- Cleaned the dataset by handling missing, duplicates and invalid values  
-- Converted date fields into proper datetime format  
+- Handled missing and invalid values 
+- Standardized data formats and corrected inconsistencies  
+- Converted date fields into proper datetime format 
 - Created calculated fields such as Revenue (Quantity × Unit Price)  
-- Performed data modeling and established relationships in Power BI  
-- Developed DAX measures for key metrics including Total Sales, Profit, Customers, and Quantity  
-- Built interactive dashboards to visualize business performance and trends
+- Verified data integrity before analysis
   
 ## Power BI Dashboard
 
