@@ -37,7 +37,7 @@ The analysis focused on answering the following business questions:
 
 ![Sales Dashboard](sales-dashboard.png)
 
-### Sales Data Table
+## Sales Data Table
 ![Sales Dashboard Page 2](sales-dashboard-page2.png)
 
 ## 🔍 Key Findings
