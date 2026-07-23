@@ -3,6 +3,8 @@
 
 ![Dashboard Preview](sales-dashboard.png)
 
+
+
 ## 📌 Project Overview
 This project analyses retail sales transaction data to identify 
 revenue trends, product performance, regional distribution and 
@@ -34,6 +36,9 @@ The analysis focused on answering the following business questions:
 ## 📊 Dashboard Preview
 
 ![Sales Dashboard](sales-dashboard.png)
+
+### Page 2
+![Sales Dashboard Page 2](sales-dashboard-page2.png)
 
 ## 🔍 Key Findings
 
